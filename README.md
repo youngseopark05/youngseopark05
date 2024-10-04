@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 I'm a **Computer Science Sophomore** at the **National University of Singapore (NUS)**, diving deep into the exciting world of **Game Development**, **UI/UX Design**, and **XR Interaction Design**! 🚀
 
 ### 🌟 About Me
-I'm passionate about creating engaging experiences through technology and design. I'm also a proud member of the [NUSHackers](https://github.com/nushackers) coreteam, where we advocate the spread of [hacker culture](https://www.nushackers.org/why/)! 💻✨
+I'm passionate about creating engaging experiences through technology and design. I'm also a proud member of the [NUS Hackers](https://github.com/nushackers) coreteam, where we advocate the spread of [hacker culture](https://www.nushackers.org/why/)! 💻✨
 
 ### 🛠️ Skills
 - **Web Development**: HTML, CSS, JavaScript, React, Next.js
